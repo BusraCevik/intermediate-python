@@ -56,7 +56,7 @@ student = {"name": "Max", "age": 22}
 * **Unordered**
 * **Mutable**
 * **Does not allow duplicates**
-* Very fast membership testing
+
   **Use when:**
   You need to remove duplicates or perform mathematical set operations.
 
