@@ -36,7 +36,7 @@ my_tuple = (10, 20, 30)
 
 ### 📌 Dictionary
 
-* **Ordered (Python 3.7+)**
+
 * **Mutable**
 * **Does not allow duplicate keys**
 * Stores data as `key → value` pairs
