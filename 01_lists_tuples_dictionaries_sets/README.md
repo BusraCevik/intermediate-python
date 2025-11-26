@@ -19,7 +19,7 @@ my_list = [10, 20, 30]
 
 ### 📌 Tuple
 
-* **Ordered**
+
 * **Immutable**
 * **Allows duplicates**
 * Memory-efficient and faster than lists
