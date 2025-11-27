@@ -1,8 +1,7 @@
-markdown
-## 🧠 Python Data Structure Comparison
----
-### 📌 List
 
+## 🧠 Python Data Structure Comparison
+
+### 📌 List
 - **Ordered**
 - **Mutable**
 - **Allows duplicates**
@@ -19,7 +18,7 @@ my_list = [10, 20, 30]
 
 ### 📌 Tuple
 
-
+* **Ordered**
 * **Immutable**
 * **Allows duplicates**
 * Memory-efficient and faster than lists
@@ -36,7 +35,7 @@ my_tuple = (10, 20, 30)
 
 ### 📌 Dictionary
 
-
+* **Ordered (Python 3.7+)**
 * **Mutable**
 * **Does not allow duplicate keys**
 * Stores data as `key → value` pairs
@@ -56,7 +55,7 @@ student = {"name": "Max", "age": 22}
 * **Unordered**
 * **Mutable**
 * **Does not allow duplicates**
-
+* Very fast membership testing
   **Use when:**
   You need to remove duplicates or perform mathematical set operations.
 
