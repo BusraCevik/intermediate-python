@@ -2,7 +2,7 @@
 
 This repository contains my journey through an intermediate-level Python course to strengthen core programming knowledge before moving into more advanced areas such as data science, machine learning, and AI development.
 
-It includes hands-on code examples covering a wide range of features that go beyond the basics — from collections and iterators to decorators, generators, concurrency, multiprocessing, and more.
+It includes hands-on code examples covering a wide range of features that go beyond the basics from collections and iterators to decorators, generators, concurrency, multiprocessing, and more.
 
 All exercises are based on the YouTube course by [Patrick Loeber](https://www.youtube.com/watch?v=HGOBQPFzWKo&t=1s), and I am uploading each topic as I complete it.  
 While following the tutorial, I occasionally add refactoring and improvements for cleaner, more maintainable code.
